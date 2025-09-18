@@ -13,6 +13,6 @@ public class PostController {
     @GetMapping("/niggers")
     public String getPosts() {
         // 這個方法會回傳一個簡單的字串
-        return "Hello, My Blog! This response is from your Java code.";
+        return "NIGGGGGGGERRRRRRR";
     }
 }
